@@ -1,2 +1,2 @@
 # Projects
-Workshop videos and presentations
+Examples of past work and side projects done by yours truly.
