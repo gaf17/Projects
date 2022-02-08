@@ -1,2 +1,2 @@
-# Workshops
+# Projects
 Workshop videos and presentations
